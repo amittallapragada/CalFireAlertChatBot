@@ -1,0 +1,2855 @@
+{
+    "Adelanto": {
+        "county": "San Bernardino",
+        "lat": " 34.55147",
+        "lon": " -117.43525",
+        "id": 5322400
+    },
+    "Agoura Hills": {
+        "county": "Los Angeles",
+        "lat": " 34.14602",
+        "lon": " -118.76038",
+        "id": 5322553
+    },
+    "Alameda": {
+        "county": "Alameda",
+        "lat": " 37.76201",
+        "lon": " -122.25477",
+        "id": 5322737
+    },
+    "Albany": {
+        "county": "Alameda",
+        "lat": " 31.56236",
+        "lon": " -84.15884",
+        "id": 5322850
+    },
+    "Alhambra": {
+        "county": "Los Angeles",
+        "lat": " 34.08343",
+        "lon": " -118.13636",
+        "id": 5323060
+    },
+    "Aliso Viejo": {
+        "county": "Orange",
+        "lat": " 33.58359",
+        "lon": " -117.73152",
+        "id": 5323163
+    },
+    "Alturas": {
+        "county": "Modoc",
+        "lat": " 41.47927",
+        "lon": " -120.56093",
+        "id": 5558829
+    },
+    "Amador City": {
+        "county": "Amador",
+        "lat": " 38.41959",
+        "lon": " -120.82696"
+    },
+    "American Canyon": {
+        "county": "Napa",
+        "lat": " 38.17527",
+        "lon": " -122.24751",
+        "id": 5323694
+    },
+    "Anaheim": {
+        "county": "Orange",
+        "lat": " 33.83431",
+        "lon": " -117.89791",
+        "id": 5323810
+    },
+    "Anderson": {
+        "county": "Shasta",
+        "lat": " 34.51400",
+        "lon": " -82.67223",
+        "id": 5558857
+    },
+    "Angels Camp": {
+        "county": "Calaveras",
+        "lat": " 38.06687",
+        "lon": " -120.58462",
+        "id": 5324004
+    },
+    "Antioch": {
+        "county": "Contra Costa",
+        "lat": " 37.97332",
+        "lon": " -121.75955",
+        "id": 5324200
+    },
+    "Arcadia": {
+        "county": "Los Angeles",
+        "lat": " 27.18666",
+        "lon": " -81.87746",
+        "id": 5324477
+    },
+    "Arcata": {
+        "county": "Humboldt",
+        "lat": " 40.87611",
+        "lon": " -124.08187",
+        "id": 5558953
+    },
+    "Arroyo Grande": {
+        "county": "San Luis Obispo",
+        "lat": " 35.11670",
+        "lon": " -120.58122",
+        "id": 5324802
+    },
+    "Artesia": {
+        "county": "Los Angeles",
+        "lat": " 33.86760",
+        "lon": " -118.07951",
+        "id": 5324862
+    },
+    "Arvin": {
+        "county": "Kern",
+        "lat": " 35.17400",
+        "lon": " -118.84814",
+        "id": 5324903
+    },
+    "Atascadero": {
+        "county": "San Luis Obispo",
+        "lat": " 35.48238",
+        "lon": " -120.67095",
+        "id": 5325111
+    },
+    "Atwater": {
+        "county": "Merced",
+        "lat": " 37.36704",
+        "lon": " -120.63373",
+        "id": 5325187
+    },
+    "Auburn": {
+        "county": "Placer",
+        "lat": " 47.30036",
+        "lon": " -122.21256",
+        "id": 5325223
+    },
+    "Avalon": {
+        "county": "Los Angeles",
+        "lat": " 39.09706",
+        "lon": " -74.73099",
+        "id": 5325305
+    },
+    "Avenal": {
+        "county": "Kings",
+        "lat": " 36.00313",
+        "lon": " -120.12921",
+        "id": 5325327
+    },
+    "Azusa": {
+        "county": "Los Angeles",
+        "lat": " 34.12708",
+        "lon": " -117.90491",
+        "id": 5325423
+    },
+    "Bakersfield": {
+        "county": "Kern",
+        "lat": " 35.35549",
+        "lon": " -119.03552",
+        "id": 5325738
+    },
+    "Baldwin Park": {
+        "county": "Los Angeles",
+        "lat": " 34.08541",
+        "lon": " -117.96961",
+        "id": 5325866
+    },
+    "Banning": {
+        "county": "Riverside",
+        "lat": " 33.92509",
+        "lon": " -116.90155",
+        "id": 5326032
+    },
+    "Barstow": {
+        "county": "San Bernardino",
+        "lat": " 34.88686",
+        "lon": " -117.03126",
+        "id": 5326297
+    },
+    "Beaumont": {
+        "county": "Riverside",
+        "lat": " 33.94535",
+        "lon": " -116.98109",
+        "id": 5327098
+    },
+    "Bell": {
+        "county": "Los Angeles",
+        "lat": " 29.76949",
+        "lon": " -82.87460",
+        "id": 5327298
+    },
+    "Bell Gardens": {
+        "county": "Los Angeles",
+        "lat": " 33.96960",
+        "lon": " -118.17197",
+        "id": 5327319
+    },
+    "Bellflower": {
+        "county": "Los Angeles",
+        "lat": " 33.88911",
+        "lon": " -118.12753",
+        "id": 5327422
+    },
+    "Belmont": {
+        "county": "San Mateo",
+        "lat": " 42.39117",
+        "lon": " -71.17407",
+        "id": 5327455
+    },
+    "Belvedere": {
+        "county": "Marin",
+        "lat": " 51.48936",
+        "lon": " 0.15604",
+        "id": 5327490
+    },
+    "Benicia": {
+        "county": "Solano",
+        "lat": " 38.06865",
+        "lon": " -122.16052",
+        "id": 5327550
+    },
+    "Berkeley": {
+        "county": "Alameda",
+        "lat": " 37.87320",
+        "lon": " -122.27296",
+        "id": 5327684
+    },
+    "Beverly Hills": {
+        "county": "Los Angeles",
+        "lat": " 28.92696",
+        "lon": " -82.47513",
+        "id": 5328041
+    },
+    "Big Bear Lake": {
+        "county": "San Bernardino",
+        "lat": " 34.24134",
+        "lon": " -116.89548",
+        "id": 5328163
+    },
+    "Biggs": {
+        "county": "Butte",
+        "lat": " 39.41280",
+        "lon": " -121.69742",
+        "id": 5328629
+    },
+    "Bishop": {
+        "county": "Inyo",
+        "lat": " 37.3614",
+        "lon": " 118.3997",
+        "id": 5328808
+    },
+    "Blue Lake": {
+        "county": "Humboldt",
+        "lat": " 40.89388",
+        "lon": " -123.96113",
+        "id": 5560020
+    },
+    "Blythe": {
+        "county": "Riverside",
+        "lat": " 33.61701",
+        "lon": " -114.60768",
+        "id": 5329649
+    },
+    "Bradbury": {
+        "county": "Los Angeles",
+        "lat": " -34.08625",
+        "lon": " 150.81421",
+        "id": 5330443
+    },
+    "Brawley": {
+        "county": "Imperial",
+        "lat": " 32.97940",
+        "lon": " -115.53376",
+        "id": 5330567
+    },
+    "Brea": {
+        "county": "Orange",
+        "lat": " 33.92325",
+        "lon": " -117.88933",
+        "id": 5330582
+    },
+    "Brentwood": {
+        "county": "Contra Costa",
+        "lat": " 40.38389",
+        "lon": " -80.04082",
+        "id": 5330642
+    },
+    "Brisbane": {
+        "county": "San Mateo",
+        "lat": " -27.46950",
+        "lon": " 153.02560",
+        "id": 5330810
+    },
+    "Buellton": {
+        "county": "Santa Barbara",
+        "lat": " 34.61660",
+        "lon": " -120.20047",
+        "id": 5331568
+    },
+    "Buena Park": {
+        "county": "Orange",
+        "lat": " 33.85407",
+        "lon": " -118.00548",
+        "id": 5331575
+    },
+    "Burbank": {
+        "county": "Los Angeles",
+        "lat": " 40.96760",
+        "lon": " -82.03207",
+        "id": 5331836
+    },
+    "Burlingame": {
+        "county": "San Mateo",
+        "lat": " 37.57401",
+        "lon": " -122.36293",
+        "id": 5331920
+    },
+    "Calabasas": {
+        "county": "Los Angeles",
+        "lat": " 34.14137",
+        "lon": " -118.66017",
+        "id": 5332593
+    },
+    "Calexico": {
+        "county": "Imperial",
+        "lat": " 32.68076",
+        "lon": " -115.49231",
+        "id": 5332698
+    },
+    "California City": {
+        "county": "Kern",
+        "lat": " 35.12342",
+        "lon": " -117.96596",
+        "id": 5332748
+    },
+    "Calimesa": {
+        "county": "Riverside",
+        "lat": " 33.98928",
+        "lon": " -117.04270",
+        "id": 5332957
+    },
+    "Calipatria": {
+        "county": "Imperial",
+        "lat": " 33.13863",
+        "lon": " -115.51504",
+        "id": 5332929
+    },
+    "Calistoga": {
+        "county": "Napa",
+        "lat": " 38.58591",
+        "lon": " -122.58789",
+        "id": 5332937
+    },
+    "Camarillo": {
+        "county": "Ventura",
+        "lat": " 34.22791",
+        "lon": " -119.02213",
+        "id": 5333180
+    },
+    "Campbell": {
+        "county": "Santa Clara",
+        "lat": " 37.28071",
+        "lon": " -121.95521",
+        "id": 5333689
+    },
+    "Canyon Lake": {
+        "county": "Riverside",
+        "lat": " 33.68377",
+        "lon": " -117.25727",
+        "id": 5333976
+    },
+    "Capitola": {
+        "county": "Santa Cruz",
+        "lat": " 36.97603",
+        "lon": " -121.95489",
+        "id": 5334096
+    },
+    "Carlsbad": {
+        "county": "San Diego",
+        "lat": " 33.12212",
+        "lon": " -117.28640",
+        "id": 5334223
+    },
+    "Carmel-by-the-Sea": {
+        "county": "Monterey",
+        "lat": " 36.55133",
+        "lon": " -121.92065",
+        "id": 5334320
+    },
+    "Carpinteria": {
+        "county": "Santa Barbara",
+        "lat": " 34.40107",
+        "lon": " -119.51927",
+        "id": 5334423
+    },
+    "Carson": {
+        "county": "Los Angeles",
+        "lat": " 33.83718",
+        "lon": " -118.26393",
+        "id": 5334519
+    },
+    "Cathedral City": {
+        "county": "Riverside",
+        "lat": " 33.81460",
+        "lon": " -116.46695",
+        "id": 5335006
+    },
+    "Ceres": {
+        "county": "Stanislaus",
+        "lat": " 37.5947",
+        "lon": " 120.9569",
+        "id": 5335650
+    },
+    "Cerritos": {
+        "county": "Los Angeles",
+        "lat": " 33.88388",
+        "lon": " -118.09674",
+        "id": 5335663
+    },
+    "Chico": {
+        "county": "Butte",
+        "lat": " 39.74816",
+        "lon": " -121.84134",
+        "id": 5336269
+    },
+    "Chino": {
+        "county": "San Bernardino",
+        "lat": " 34.00307",
+        "lon": " -117.69327",
+        "id": 5336537
+    },
+    "Chino Hills": {
+        "county": "San Bernardino",
+        "lat": " 33.96899",
+        "lon": " -117.72068",
+        "id": 5336545
+    },
+    "Chowchilla": {
+        "county": "Madera",
+        "lat": " 37.10596",
+        "lon": " -120.26693",
+        "id": 5336667
+    },
+    "Chula Vista": {
+        "county": "San Diego",
+        "lat": " 32.62933",
+        "lon": " -117.02043",
+        "id": 5336899
+    },
+    "Citrus Heights": {
+        "county": "Sacramento",
+        "lat": " 38.69451",
+        "lon": " -121.28940",
+        "id": 5337561
+    },
+    "Claremont": {
+        "county": "Los Angeles",
+        "lat": " 34.11215",
+        "lon": " -117.71964",
+        "id": 5337696
+    },
+    "Clayton": {
+        "county": "Contra Costa",
+        "lat": " 35.64870",
+        "lon": " -78.46370",
+        "id": 5337841
+    },
+    "Clearlake": {
+        "county": "Lake",
+        "lat": " 38.9582",
+        "lon": " 122.6264",
+        "id": 5337908
+    },
+    "Cloverdale": {
+        "county": "Sonoma",
+        "lat": " 39.50596",
+        "lon": " -86.78736",
+        "id": 5338104
+    },
+    "Clovis": {
+        "county": "Fresno",
+        "lat": " 36.83305",
+        "lon": " -119.67653",
+        "id": 5338122
+    },
+    "Coachella": {
+        "county": "Riverside",
+        "lat": " 33.68017",
+        "lon": " -116.18666",
+        "id": 5338166
+    },
+    "Coalinga": {
+        "county": "Fresno",
+        "lat": " 36.14745",
+        "lon": " -120.35847",
+        "id": 5338196
+    },
+    "Colfax": {
+        "county": "Placer",
+        "lat": " 35.33591",
+        "lon": " -81.76921",
+        "id": 5338567
+    },
+    "Colton": {
+        "county": "San Bernardino",
+        "lat": " 34.06564",
+        "lon": " -117.32046",
+        "id": 5338783
+    },
+    "Colusa": {
+        "county": "Colusa",
+        "lat": " 39.21523",
+        "lon": " -122.01360",
+        "id": 5338866
+    },
+    "Commerce": {
+        "county": "Los Angeles",
+        "lat": " 39.85112",
+        "lon": " -104.86575",
+        "id": 5338929
+    },
+    "Compton": {
+        "county": "Los Angeles",
+        "lat": " 33.89662",
+        "lon": " -118.22634",
+        "id": 5339066
+    },
+    "Concord": {
+        "county": "Contra Costa",
+        "lat": " 37.95364",
+        "lon": " -122.00934",
+        "id": 5339111
+    },
+    "Corcoran": {
+        "county": "Kings",
+        "lat": " 36.0980",
+        "lon": " 119.5604",
+        "id": 5339539
+    },
+    "Corning": {
+        "county": "Tehama",
+        "lat": " 42.19886",
+        "lon": " -77.02692",
+        "id": 5339614
+    },
+    "Corona": {
+        "county": "Riverside",
+        "lat": " 33.84817",
+        "lon": " -117.55110",
+        "id": 5339631
+    },
+    "Coronado": {
+        "county": "San Diego",
+        "lat": " 26.73728",
+        "lon": " -105.15801",
+        "id": 5339663
+    },
+    "Costa Mesa": {
+        "county": "Orange",
+        "lat": " 33.66291",
+        "lon": " -117.91436",
+        "id": 5339840
+    },
+    "Cotati": {
+        "county": "Sonoma",
+        "lat": " 38.32712",
+        "lon": " -122.71021",
+        "id": 5339865
+    },
+    "Covina": {
+        "county": "Los Angeles",
+        "lat": " 34.09182",
+        "lon": " -117.88545",
+        "id": 5340175
+    },
+    "Crescent City": {
+        "county": "Del Norte",
+        "lat": " 41.78775",
+        "lon": " -124.16984",
+        "id": 5562087
+    },
+    "Cudahy": {
+        "county": "Los Angeles",
+        "lat": " 42.94837",
+        "lon": " -87.86235",
+        "id": 5341051
+    },
+    "Culver City": {
+        "county": "Los Angeles",
+        "lat": " 34.00571",
+        "lon": " -118.39811",
+        "id": 5341114
+    },
+    "Cupertino": {
+        "county": "Santa Clara",
+        "lat": " 37.31725",
+        "lon": " -122.04014",
+        "id": 5341145
+    },
+    "Cypress": {
+        "county": "Orange",
+        "lat": " 33.81657",
+        "lon": " -118.03893",
+        "id": 5341256
+    },
+    "Daly City": {
+        "county": "San Mateo",
+        "lat": " 37.68952",
+        "lon": " -122.46653",
+        "id": 5341430
+    },
+    "Dana Point": {
+        "county": "Orange",
+        "lat": " 33.47361",
+        "lon": " -117.69445",
+        "id": 5341483
+    },
+    "Davis": {
+        "county": "Yolo",
+        "lat": " 34.75932",
+        "lon": " -76.48699",
+        "id": 5341704
+    },
+    "Del Mar": {
+        "county": "San Diego",
+        "lat": " 32.9595",
+        "lon": " 117.2653",
+        "id": 5342353
+    },
+    "Del Rey Oaks": {
+        "county": "Monterey",
+        "lat": " 36.55751",
+        "lon": " -121.82064",
+        "id": 5342441
+    },
+    "Delano": {
+        "county": "Kern",
+        "lat": " 35.75919",
+        "lon": " -119.23369",
+        "id": 5342485
+    },
+    "Desert Hot Springs": {
+        "county": "Riverside",
+        "lat": " 33.94513",
+        "lon": " -116.47911",
+        "id": 5342710
+    },
+    "Diamond Bar": {
+        "county": "Los Angeles",
+        "lat": " 34.00188",
+        "lon": " -117.81508",
+        "id": 5342992
+    },
+    "Dinuba": {
+        "county": "Tulare",
+        "lat": " 36.57143",
+        "lon": " -119.40086",
+        "id": 5343171
+    },
+    "Dixon": {
+        "county": "Solano",
+        "lat": " 38.44522",
+        "lon": " -121.82779",
+        "id": 5343303
+    },
+    "Dorris": {
+        "county": "Siskiyou",
+        "lat": " 41.96156",
+        "lon": " -121.93457"
+    },
+    "Dos Palos": {
+        "county": "Merced",
+        "lat": " 36.99760",
+        "lon": " -120.63202",
+        "id": 5343728
+    },
+    "Downey": {
+        "county": "Los Angeles",
+        "lat": " 33.93862",
+        "lon": " -118.13125",
+        "id": 5343858
+    },
+    "Duarte": {
+        "county": "Los Angeles",
+        "lat": " 34.13828",
+        "lon": " -117.96527",
+        "id": 5344147
+    },
+    "Dublin": {
+        "county": "Alameda",
+        "lat": " 53.32234",
+        "lon": " -6.25329",
+        "id": 5344157
+    },
+    "Dunsmuir": {
+        "county": "Siskiyou",
+        "lat": " 41.21202",
+        "lon": " -122.27547",
+        "id": 5562961
+    },
+    "East Palo Alto": {
+        "county": "San Mateo",
+        "lat": " 37.46306",
+        "lon": " -122.13874",
+        "id": 5345032
+    },
+    "Eastvale": {
+        "county": "Riverside",
+        "lat": " 33.96226",
+        "lon": " -117.57933"
+    },
+    "El Cajon": {
+        "county": "San Diego",
+        "lat": " 32.79916",
+        "lon": " -116.93188",
+        "id": 5345529
+    },
+    "El Centro": {
+        "county": "Imperial",
+        "lat": " 32.78584",
+        "lon": " -115.56452",
+        "id": 5345609
+    },
+    "El Cerrito": {
+        "county": "Contra Costa",
+        "lat": " 20.47721",
+        "lon": " -99.89637",
+        "id": 5345623
+    },
+    "El Monte": {
+        "county": "Los Angeles",
+        "lat": " 34.07526",
+        "lon": " -118.02313",
+        "id": 5345743
+    },
+    "El Segundo": {
+        "county": "Los Angeles",
+        "lat": " 33.92357",
+        "lon": " -118.41015",
+        "id": 5345860
+    },
+    "Elk Grove": {
+        "county": "Sacramento",
+        "lat": " 38.41456",
+        "lon": " -121.40783",
+        "id": 5346111
+    },
+    "Emeryville": {
+        "county": "Alameda",
+        "lat": " 37.83698",
+        "lon": " -122.28410",
+        "id": 5346462
+    },
+    "Encinitas": {
+        "county": "San Diego",
+        "lat": " 33.05555",
+        "lon": " -117.26771",
+        "id": 5346646
+    },
+    "Escalon": {
+        "county": "San Joaquin",
+        "lat": " 37.81953",
+        "lon": " -120.99359",
+        "id": 5346811
+    },
+    "Escondido": {
+        "county": "San Diego",
+        "lat": " 33.13406",
+        "lon": " -117.08118",
+        "id": 5346827
+    },
+    "Etna": {
+        "county": "Siskiyou",
+        "lat": " 41.46273",
+        "lon": " -122.89764"
+    },
+    "Eureka": {
+        "county": "Humboldt",
+        "lat": " 40.77501",
+        "lon": " -124.15828",
+        "id": 5563397
+    },
+    "Exeter": {
+        "county": "Tulare",
+        "lat": " 40.31182",
+        "lon": " -75.84874",
+        "id": 5347239
+    },
+    "Fairfield": {
+        "county": "Solano",
+        "lat": " 38.25833",
+        "lon": " -122.05799",
+        "id": 5347335
+    },
+    "Farmersville": {
+        "county": "Tulare",
+        "lat": " 33.16664",
+        "lon": " -96.35219",
+        "id": 5347742
+    },
+    "Ferndale": {
+        "county": "Humboldt",
+        "lat": " 42.45900",
+        "lon": " -83.13370",
+        "id": 5563573
+    },
+    "Fillmore": {
+        "county": "Ventura",
+        "lat": " 34.40036",
+        "lon": " -118.91652",
+        "id": 5284756
+    },
+    "Firebaugh": {
+        "county": "Fresno",
+        "lat": " 36.84935",
+        "lon": " -120.48916",
+        "id": 5348299
+    },
+    "Folsom": {
+        "county": "Sacramento",
+        "lat": " 38.67337",
+        "lon": " -121.15103",
+        "id": 5349705
+    },
+    "Fontana": {
+        "county": "San Bernardino",
+        "lat": " 34.09958",
+        "lon": " -117.45962",
+        "id": 5349755
+    },
+    "Fort Bragg": {
+        "county": "Mendocino",
+        "lat": " 39.43976",
+        "lon": " -123.78541",
+        "id": 5350039
+    },
+    "Fort Jones": {
+        "county": "Siskiyou",
+        "lat": " 41.61390",
+        "lon": " -122.88349"
+    },
+    "Fortuna": {
+        "county": "Humboldt",
+        "lat": " 38.19612",
+        "lon": " -1.11457",
+        "id": 5563839
+    },
+    "Foster City": {
+        "county": "San Mateo",
+        "lat": " 37.55208",
+        "lon": " -122.27010",
+        "id": 5350159
+    },
+    "Fountain Valley": {
+        "county": "Orange",
+        "lat": " 33.7090",
+        "lon": " 117.9544",
+        "id": 5350207
+    },
+    "Fowler": {
+        "county": "Fresno",
+        "lat": " 40.64276",
+        "lon": " -87.29038",
+        "id": 5350351
+    },
+    "Fremont": {
+        "county": "Alameda",
+        "lat": " 37.5485",
+        "lon": " 121.9886",
+        "id": 5350734
+    },
+    "Fresno": {
+        "county": "Fresno",
+        "lat": " 36.78825",
+        "lon": " -119.76972",
+        "id": 5350937
+    },
+    "Fullerton": {
+        "county": "Orange",
+        "lat": " 33.88126",
+        "lon": " -117.92801",
+        "id": 5351247
+    },
+    "Galt": {
+        "county": "Sacramento",
+        "lat": " 38.26855",
+        "lon": " -121.29725",
+        "id": 5351428
+    },
+    "Garden Grove": {
+        "county": "Orange",
+        "lat": " 33.77803",
+        "lon": " -117.95776",
+        "id": 5351515
+    },
+    "Gardena": {
+        "county": "Los Angeles",
+        "lat": " 33.89083",
+        "lon": " -118.30210",
+        "id": 5351549
+    },
+    "Gilroy": {
+        "county": "Santa Clara",
+        "lat": " 37.01711",
+        "lon": " -121.58422",
+        "id": 5352214
+    },
+    "Glendale": {
+        "county": "Los Angeles",
+        "lat": " 34.1425",
+        "lon": " 118.2551",
+        "id": 5352423
+    },
+    "Glendora": {
+        "county": "Los Angeles",
+        "lat": " 34.13021",
+        "lon": " -117.85520",
+        "id": 5352439
+    },
+    "Goleta": {
+        "county": "Santa Barbara",
+        "lat": " 34.43650",
+        "lon": " -119.86487",
+        "id": 5352963
+    },
+    "Gonzales": {
+        "county": "Monterey",
+        "lat": " 30.24139",
+        "lon": " -90.92054",
+        "id": 5352997
+    },
+    "Grand Terrace": {
+        "county": "San Bernardino",
+        "lat": " 34.03050",
+        "lon": " -117.31373",
+        "id": 5353484
+    },
+    "Grass Valley": {
+        "county": "Nevada",
+        "lat": " 39.16495",
+        "lon": " -121.04408",
+        "id": 5353775
+    },
+    "Greenfield": {
+        "county": "Monterey",
+        "lat": " 42.96222",
+        "lon": " -87.99842",
+        "id": 5354172
+    },
+    "Gridley": {
+        "county": "Butte",
+        "lat": " 39.35845",
+        "lon": " -121.69424",
+        "id": 5354307
+    },
+    "Grover Beach": {
+        "county": "San Luis Obispo",
+        "lat": " 35.12016",
+        "lon": " -120.61825",
+        "id": 5354552
+    },
+    "Guadalupe": {
+        "county": "Santa Barbara",
+        "lat": " 34.9716",
+        "lon": " 120.5718",
+        "id": 5354591
+    },
+    "Gustine": {
+        "county": "Merced",
+        "lat": " 37.20361",
+        "lon": " -121.00896",
+        "id": 5354747
+    },
+    "Half Moon Bay": {
+        "county": "San Mateo",
+        "lat": " 37.46941",
+        "lon": " -122.44131",
+        "id": 5354943
+    },
+    "Hanford": {
+        "county": "Kings",
+        "lat": " 36.33545",
+        "lon": " -119.65071",
+        "id": 5355180
+    },
+    "Hawaiian Gardens": {
+        "county": "Los Angeles",
+        "lat": " 33.82978",
+        "lon": " -118.07296",
+        "id": 5355782
+    },
+    "Hawthorne": {
+        "county": "Los Angeles",
+        "lat": " 41.01995",
+        "lon": " -79.27474",
+        "id": 5355828
+    },
+    "Hayward": {
+        "county": "Alameda",
+        "lat": " 37.65004",
+        "lon": " -122.07923",
+        "id": 5355933
+    },
+    "Healdsburg": {
+        "county": "Sonoma",
+        "lat": " 38.61658",
+        "lon": " -122.86803",
+        "id": 5356012
+    },
+    "Hemet": {
+        "county": "Riverside",
+        "lat": " 33.73756",
+        "lon": " -116.97187",
+        "id": 5356277
+    },
+    "Hercules": {
+        "county": "Contra Costa",
+        "lat": " 38.00843",
+        "lon": " -122.26524",
+        "id": 5356451
+    },
+    "Hermosa Beach": {
+        "county": "Los Angeles",
+        "lat": " 33.86511",
+        "lon": " -118.39662",
+        "id": 5356521
+    },
+    "Hesperia": {
+        "county": "San Bernardino",
+        "lat": " 34.41571",
+        "lon": " -117.31878",
+        "id": 5356576
+    },
+    "Hidden Hills": {
+        "county": "Los Angeles",
+        "lat": " 34.16395",
+        "lon": " -118.66130",
+        "id": 5356700
+    },
+    "Highland": {
+        "county": "San Bernardino",
+        "lat": " 34.12366",
+        "lon": " -117.19535",
+        "id": 5356868
+    },
+    "Hollister": {
+        "county": "San Benito",
+        "lat": " 36.59702",
+        "lon": " -93.23716",
+        "id": 5357499
+    },
+    "Holtville": {
+        "county": "Imperial",
+        "lat": " 32.80788",
+        "lon": " -115.37813",
+        "id": 5357598
+    },
+    "Hughson": {
+        "county": "Stanislaus",
+        "lat": " 37.59294",
+        "lon": " -120.86235",
+        "id": 5358539
+    },
+    "Huntington Beach": {
+        "county": "Orange",
+        "lat": " 33.69453",
+        "lon": " -118.00039",
+        "id": 5358705
+    },
+    "Huntington Park": {
+        "county": "Los Angeles",
+        "lat": " 33.97541",
+        "lon": " -118.21711",
+        "id": 5358736
+    },
+    "Huron": {
+        "county": "Fresno",
+        "lat": " 44.36322",
+        "lon": " -98.21219",
+        "id": 5358769
+    },
+    "Imperial": {
+        "county": "Imperial",
+        "lat": " 32.83952",
+        "lon": " -115.57958",
+        "id": 5359052
+    },
+    "Imperial Beach": {
+        "county": "San Diego",
+        "lat": " 32.57913",
+        "lon": " -117.11699",
+        "id": 5359054
+    },
+    "Indian Wells": {
+        "county": "Riverside",
+        "lat": " 33.71765",
+        "lon": " -116.33801",
+        "id": 5359426
+    },
+    "Indio": {
+        "county": "Riverside",
+        "lat": " 33.72735",
+        "lon": " -116.24011",
+        "id": 5359446
+    },
+    "Industry": {
+        "county": "Los Angeles",
+        "lat": " 40.30988",
+        "lon": " -90.60850"
+    },
+    "Inglewood": {
+        "county": "Los Angeles",
+        "lat": " 33.95309",
+        "lon": " -118.34593",
+        "id": 5359488
+    },
+    "Ione": {
+        "county": "Amador",
+        "lat": " 38.31663",
+        "lon": " -120.94705",
+        "id": 5359634
+    },
+    "Irvine": {
+        "county": "Orange",
+        "lat": " 33.68590",
+        "lon": " -117.79024",
+        "id": 5359777
+    },
+    "Irwindale": {
+        "county": "Los Angeles",
+        "lat": " 34.10889",
+        "lon": " -117.95129",
+        "id": 5359817
+    },
+    "Isleton": {
+        "county": "Sacramento",
+        "lat": " 38.15804",
+        "lon": " -121.60508"
+    },
+    "Jackson": {
+        "county": "Amador",
+        "lat": " 42.86340",
+        "lon": " -73.75426",
+        "id": 5360160
+    },
+    "Jurupa Valley": {
+        "county": "Riverside",
+        "lat": " 33.99491",
+        "lon": " -117.46948",
+        "id": 5373492
+    },
+    "Kerman": {
+        "county": "Fresno",
+        "lat": " 30.28417",
+        "lon": " 57.06558",
+        "id": 5362909
+    },
+    "King City": {
+        "county": "Monterey",
+        "lat": " 36.18218",
+        "lon": " -121.13887",
+        "id": 5363208
+    },
+    "Kingsburg": {
+        "county": "Fresno",
+        "lat": " 36.55529",
+        "lon": " -119.57611",
+        "id": 5363429
+    },
+    "La Ca\u00f1ada Flintridge": {
+        "county": "Los Angeles",
+        "lat": " 34.20870",
+        "lon": " -118.20067",
+        "id": 5363859
+    },
+    "La Habra": {
+        "county": "Orange",
+        "lat": " 33.93776",
+        "lon": " -117.95277",
+        "id": 5363922
+    },
+    "La Habra Heights": {
+        "county": "Los Angeles",
+        "lat": " 33.95669",
+        "lon": " -117.95137",
+        "id": 5363925
+    },
+    "La Mesa": {
+        "county": "San Diego",
+        "lat": " 32.76732",
+        "lon": " -117.01194",
+        "id": 5363990
+    },
+    "La Mirada": {
+        "county": "Los Angeles",
+        "lat": " 33.90601",
+        "lon": " -118.00875",
+        "id": 5364007
+    },
+    "La Palma": {
+        "county": "Orange",
+        "lat": " 37.68804",
+        "lon": " -0.96767",
+        "id": 5364022
+    },
+    "La Puente": {
+        "county": "Los Angeles",
+        "lat": " 34.03624",
+        "lon": " -117.95154",
+        "id": 5364066
+    },
+    "La Quinta": {
+        "county": "Riverside",
+        "lat": " 33.67554",
+        "lon": " -116.28320",
+        "id": 5364079
+    },
+    "La Verne": {
+        "county": "Los Angeles",
+        "lat": " 34.11833",
+        "lon": " -117.77121",
+        "id": 5364134
+    },
+    "Lafayette": {
+        "county": "Contra Costa",
+        "lat": " 40.63199",
+        "lon": " -81.92537",
+        "id": 5364226
+    },
+    "Laguna Beach": {
+        "county": "Orange",
+        "lat": " 33.53508",
+        "lon": " -117.76906",
+        "id": 5364275
+    },
+    "Laguna Hills": {
+        "county": "Orange",
+        "lat": " 33.59203",
+        "lon": " -117.69810",
+        "id": 5364306
+    },
+    "Laguna Niguel": {
+        "county": "Orange",
+        "lat": " 33.52927",
+        "lon": " -117.70276",
+        "id": 5364329
+    },
+    "Laguna Woods": {
+        "county": "Orange",
+        "lat": " 33.60818",
+        "lon": " -117.72464",
+        "id": 5364369
+    },
+    "Lake Elsinore": {
+        "county": "Riverside",
+        "lat": " 33.67097",
+        "lon": " -117.33584",
+        "id": 5364499
+    },
+    "Lake Forest": {
+        "county": "Orange",
+        "lat": " 33.64445",
+        "lon": " -117.68772",
+        "id": 5364514
+    },
+    "Lakeport": {
+        "county": "Lake",
+        "lat": " 39.09328",
+        "lon": " -122.85789",
+        "id": 5364753
+    },
+    "Lakewood": {
+        "county": "Los Angeles",
+        "lat": " 39.70091",
+        "lon": " -105.10540",
+        "id": 5364855
+    },
+    "Lancaster": {
+        "county": "Los Angeles",
+        "lat": " 40.03584",
+        "lon": " -76.30924",
+        "id": 5364940
+    },
+    "Larkspur": {
+        "county": "Marin",
+        "lat": " 39.22766",
+        "lon": " -104.91804",
+        "id": 5365113
+    },
+    "Lathrop": {
+        "county": "San Joaquin",
+        "lat": " 37.81506",
+        "lon": " -121.28802",
+        "id": 5365425
+    },
+    "Lawndale": {
+        "county": "Los Angeles",
+        "lat": " 33.88783",
+        "lon": " -118.35115",
+        "id": 5365603
+    },
+    "Lemon Grove": {
+        "county": "San Diego",
+        "lat": " 32.73202",
+        "lon": " -117.03439",
+        "id": 5365893
+    },
+    "Lemoore": {
+        "county": "Kings",
+        "lat": " 36.29726",
+        "lon": " -119.80288",
+        "id": 5365918
+    },
+    "Lincoln": {
+        "county": "Placer",
+        "lat": " 40.80185",
+        "lon": " -96.67063",
+        "id": 5366375
+    },
+    "Lindsay": {
+        "county": "Tulare",
+        "lat": " 36.20559",
+        "lon": " -119.08831",
+        "id": 5366604
+    },
+    "Live Oak": {
+        "county": "Sutter",
+        "lat": " 30.28186",
+        "lon": " -83.03992",
+        "id": 5367315
+    },
+    "Livermore": {
+        "county": "Alameda",
+        "lat": " 37.68586",
+        "lon": " -121.76072",
+        "id": 5367440
+    },
+    "Livingston": {
+        "county": "Merced",
+        "lat": " 55.89346",
+        "lon": " -3.51508",
+        "id": 5367427
+    },
+    "Lodi": {
+        "county": "San Joaquin",
+        "lat": " 38.1341",
+        "lon": " 121.2722",
+        "id": 5367565
+    },
+    "Loma Linda": {
+        "county": "San Bernardino",
+        "lat": " 34.05029",
+        "lon": " -117.24669",
+        "id": 5367696
+    },
+    "Lomita": {
+        "county": "Los Angeles",
+        "lat": " 33.79430",
+        "lon": " -118.31710",
+        "id": 5367767
+    },
+    "Lompoc": {
+        "county": "Santa Barbara",
+        "lat": " 34.66168",
+        "lon": " -120.45743",
+        "id": 5367788
+    },
+    "Long Beach": {
+        "county": "Los Angeles",
+        "lat": " 33.81801",
+        "lon": " -118.14313",
+        "id": 5367929
+    },
+    "Los Alamitos": {
+        "county": "Orange",
+        "lat": " 33.79445",
+        "lon": " -118.07190",
+        "id": 5368304
+    },
+    "Los Altos": {
+        "county": "Santa Clara",
+        "lat": " 37.36699",
+        "lon": " -122.10064",
+        "id": 5368335
+    },
+    "Los Angeles": {
+        "county": "Los Angeles",
+        "lat": " 34.04014",
+        "lon": " -118.29757",
+        "id": 5368361
+    },
+    "Los Banos": {
+        "county": "Merced",
+        "lat": " 37.06287",
+        "lon": " -120.84443",
+        "id": 5368453
+    },
+    "Loyalton": {
+        "county": "Sierra",
+        "lat": " 39.66708",
+        "lon": " -120.25488"
+    },
+    "Lynwood": {
+        "county": "Los Angeles",
+        "lat": " 33.92383",
+        "lon": " -118.20079",
+        "id": 5369367
+    },
+    "Madera": {
+        "county": "Madera",
+        "lat": " 36.96483",
+        "lon": " -120.04226",
+        "id": 5369568
+    },
+    "Malibu": {
+        "county": "Los Angeles",
+        "lat": " 34.04322",
+        "lon": " -118.75523",
+        "id": 5369906
+    },
+    "Manhattan Beach": {
+        "county": "Los Angeles",
+        "lat": " 33.88990",
+        "lon": " -118.40107",
+        "id": 5370082
+    },
+    "Manteca": {
+        "county": "San Joaquin",
+        "lat": " 37.79498",
+        "lon": " -121.22093",
+        "id": 5370164
+    },
+    "Maricopa": {
+        "county": "Kern",
+        "lat": " 33.04615",
+        "lon": " -112.02630",
+        "id": 5370440
+    },
+    "Marina": {
+        "county": "Monterey",
+        "lat": " 36.67623",
+        "lon": " -121.78812",
+        "id": 5370493
+    },
+    "Martinez": {
+        "county": "Contra Costa",
+        "lat": " 37.99469",
+        "lon": " -122.10952",
+        "id": 5370868
+    },
+    "Marysville": {
+        "county": "Yuba",
+        "lat": " 48.07756",
+        "lon": " -122.16747",
+        "id": 5370984
+    },
+    "Maywood": {
+        "county": "Los Angeles",
+        "lat": " 41.87930",
+        "lon": " -87.84584",
+        "id": 5371261
+    },
+    "McFarland": {
+        "county": "Kern",
+        "lat": " 39.05357",
+        "lon": " -96.23868",
+        "id": 5371530
+    },
+    "Mendota": {
+        "county": "Fresno",
+        "lat": " 36.77134",
+        "lon": " -120.39886",
+        "id": 5372190
+    },
+    "Menifee": {
+        "county": "Riverside",
+        "lat": " 33.69320",
+        "lon": " -117.18310",
+        "id": 5372205
+    },
+    "Menlo Park": {
+        "county": "San Mateo",
+        "lat": " 37.45226",
+        "lon": " -122.18195",
+        "id": 5372223
+    },
+    "Merced": {
+        "county": "Merced",
+        "lat": " 37.31592",
+        "lon": " -120.48722",
+        "id": 5372253
+    },
+    "Mill Valley": {
+        "county": "Marin",
+        "lat": " 37.89664",
+        "lon": " -122.53551",
+        "id": 5373121
+    },
+    "Millbrae": {
+        "county": "San Mateo",
+        "lat": " 37.60008",
+        "lon": " -122.40132",
+        "id": 5373129
+    },
+    "Milpitas": {
+        "county": "Santa Clara",
+        "lat": " 37.4323",
+        "lon": " 121.8996",
+        "id": 5373327
+    },
+    "Mission Viejo": {
+        "county": "Orange",
+        "lat": " 33.60517",
+        "lon": " -117.64977",
+        "id": 5373763
+    },
+    "Modesto": {
+        "county": "Stanislaus",
+        "lat": " 37.65833",
+        "lon": " -120.99260",
+        "id": 5373900
+    },
+    "Monrovia": {
+        "county": "Los Angeles",
+        "lat": " 34.14477",
+        "lon": " -118.00177",
+        "id": 5374175
+    },
+    "Montague": {
+        "county": "Siskiyou",
+        "lat": " 43.43191",
+        "lon": " -86.37526",
+        "id": 5568152
+    },
+    "Montclair": {
+        "county": "San Bernardino",
+        "lat": " 40.82445",
+        "lon": " -74.20987",
+        "id": 5374232
+    },
+    "Monte Sereno": {
+        "county": "Santa Clara",
+        "lat": " 37.24040",
+        "lon": " -121.98577",
+        "id": 5374283
+    },
+    "Montebello": {
+        "county": "Los Angeles",
+        "lat": " 34.0165",
+        "lon": " 118.1138",
+        "id": 5374322
+    },
+    "Monterey": {
+        "county": "Monterey",
+        "lat": " 36.59405",
+        "lon": " -121.87898",
+        "id": 5374361
+    },
+    "Monterey Park": {
+        "county": "Los Angeles",
+        "lat": " 34.05167",
+        "lon": " -118.13077",
+        "id": 5374406
+    },
+    "Moorpark": {
+        "county": "Ventura",
+        "lat": " 34.2856",
+        "lon": " 118.8820",
+        "id": 5374648
+    },
+    "Moreno Valley": {
+        "county": "Riverside",
+        "lat": " 33.92530",
+        "lon": " -117.22622",
+        "id": 5374732
+    },
+    "Morgan Hill": {
+        "county": "Santa Clara",
+        "lat": " 37.12912",
+        "lon": " -121.64644",
+        "id": 5374764
+    },
+    "Morro Bay": {
+        "county": "San Luis Obispo",
+        "lat": " 35.37933",
+        "lon": " -120.84960",
+        "id": 5374920
+    },
+    "Mount Shasta": {
+        "county": "Siskiyou",
+        "lat": " 41.31677",
+        "lon": " -122.32351",
+        "id": 5568295
+    },
+    "Mountain View": {
+        "county": "Santa Clara",
+        "lat": " 37.40971",
+        "lon": " -122.12327",
+        "id": 5375480
+    },
+    "Murrieta": {
+        "county": "Riverside",
+        "lat": " 33.57447",
+        "lon": " -117.18185",
+        "id": 5375911
+    },
+    "Napa": {
+        "county": "Napa",
+        "lat": " 38.31714",
+        "lon": " -122.29985",
+        "id": 5376095
+    },
+    "National City": {
+        "county": "San Diego",
+        "lat": " 32.67500",
+        "lon": " -117.09096",
+        "id": 5376200
+    },
+    "Needles": {
+        "county": "San Bernardino",
+        "lat": " 34.85069",
+        "lon": " -114.60995",
+        "id": 5376358
+    },
+    "Nevada City": {
+        "county": "Nevada",
+        "lat": " 39.2616",
+        "lon": " 121.0161",
+        "id": 5376502
+    },
+    "Newark": {
+        "county": "Alameda",
+        "lat": " 37.5300",
+        "lon": " 122.0384",
+        "id": 5376803
+    },
+    "Newman": {
+        "county": "Stanislaus",
+        "lat": " 37.3137",
+        "lon": " 121.0206",
+        "id": 5376870
+    },
+    "Newport Beach": {
+        "county": "Orange",
+        "lat": " 33.62084",
+        "lon": " -117.89191",
+        "id": 5376890
+    },
+    "Norco": {
+        "county": "Riverside",
+        "lat": " 33.92539",
+        "lon": " -117.55291",
+        "id": 5377199
+    },
+    "Norwalk": {
+        "county": "Los Angeles",
+        "lat": " 33.9022",
+        "lon": " 118.0817",
+        "id": 5377995
+    },
+    "Novato": {
+        "county": "Marin",
+        "lat": " 38.09159",
+        "lon": " -122.56622",
+        "id": 5378044
+    },
+    "Oakdale": {
+        "county": "Stanislaus",
+        "lat": " 44.98645",
+        "lon": " -92.96545",
+        "id": 5378500
+    },
+    "Oakland": {
+        "county": "Alameda",
+        "lat": " 37.84520",
+        "lon": " -122.23933",
+        "id": 5378538
+    },
+    "Oakley": {
+        "county": "Contra Costa",
+        "lat": " 37.98961",
+        "lon": " -121.70754",
+        "id": 5378566
+    },
+    "Oceanside": {
+        "county": "San Diego",
+        "lat": " 33.21516",
+        "lon": " -117.31049",
+        "id": 5378771
+    },
+    "Ojai": {
+        "county": "Ventura",
+        "lat": " 34.44418",
+        "lon": " -119.25922",
+        "id": 5378880
+    },
+    "Ontario": {
+        "county": "San Bernardino",
+        "lat": " 44.25829",
+        "lon": " -79.09471",
+        "id": 5379439
+    },
+    "Orange": {
+        "county": "Orange",
+        "lat": " 33.80392",
+        "lon": " -117.82880",
+        "id": 5379513
+    },
+    "Orange Cove": {
+        "county": "Fresno",
+        "lat": " 36.62436",
+        "lon": " -119.30577",
+        "id": 5379533
+    },
+    "Orinda": {
+        "county": "Contra Costa",
+        "lat": " 37.87984",
+        "lon": " -122.17522",
+        "id": 5379678
+    },
+    "Orland": {
+        "county": "Glenn",
+        "lat": " 41.73669",
+        "lon": " -85.13298",
+        "id": 5379698
+    },
+    "Oroville": {
+        "county": "Butte",
+        "lat": " 39.50886",
+        "lon": " -121.53137",
+        "id": 5379759
+    },
+    "Oxnard": {
+        "county": "Ventura",
+        "lat": " 34.19550",
+        "lon": " -119.18294",
+        "id": 5380184
+    },
+    "Pacific Grove": {
+        "county": "Monterey",
+        "lat": " 36.61720",
+        "lon": " -121.92269",
+        "id": 5380437
+    },
+    "Pacifica": {
+        "county": "San Mateo",
+        "lat": " 37.61940",
+        "lon": " -122.48647",
+        "id": 5380420
+    },
+    "Palm Desert": {
+        "county": "Riverside",
+        "lat": " 33.74487",
+        "lon": " -116.35133",
+        "id": 5380626
+    },
+    "Palm Springs": {
+        "county": "Riverside",
+        "lat": " 33.82436",
+        "lon": " -116.52979",
+        "id": 5380668
+    },
+    "Palmdale": {
+        "county": "Los Angeles",
+        "lat": " 34.58074",
+        "lon": " -118.09717",
+        "id": 5380698
+    },
+    "Palo Alto": {
+        "county": "Santa Clara",
+        "lat": " 21.91768",
+        "lon": " -101.96363",
+        "id": 5380748
+    },
+    "Palos Verdes Estates": {
+        "county": "Los Angeles",
+        "lat": " 33.79143",
+        "lon": " -118.39028",
+        "id": 5380883
+    },
+    "Paramount": {
+        "county": "Los Angeles",
+        "lat": " 33.89767",
+        "lon": " -118.16315",
+        "id": 5381110
+    },
+    "Parlier": {
+        "county": "Fresno",
+        "lat": " 36.61232",
+        "lon": " -119.53423",
+        "id": 5381325
+    },
+    "Pasadena": {
+        "county": "Los Angeles",
+        "lat": " 29.66066",
+        "lon": " -95.17582",
+        "id": 5381396
+    },
+    "Paso Robles": {
+        "county": "San Luis Obispo",
+        "lat": " 35.63639",
+        "lon": " -120.69185",
+        "id": 5381438
+    },
+    "Patterson": {
+        "county": "Stanislaus",
+        "lat": " 37.46909",
+        "lon": " -121.14982",
+        "id": 5381515
+    },
+    "Perris": {
+        "county": "Riverside",
+        "lat": " 33.80567",
+        "lon": " -117.25302",
+        "id": 5382146
+    },
+    "Petaluma": {
+        "county": "Sonoma",
+        "lat": " 38.24738",
+        "lon": " -122.66125",
+        "id": 5382232
+    },
+    "Pico Rivera": {
+        "county": "Los Angeles",
+        "lat": " 33.98767",
+        "lon": " -118.08922",
+        "id": 5382496
+    },
+    "Piedmont": {
+        "county": "Alameda",
+        "lat": " 34.72580",
+        "lon": " -82.48822",
+        "id": 5382514
+    },
+    "Pinole": {
+        "county": "Contra Costa",
+        "lat": " 37.99620",
+        "lon": " -122.28924",
+        "id": 5383187
+    },
+    "Pismo Beach": {
+        "county": "San Luis Obispo",
+        "lat": " 35.14767",
+        "lon": " -120.64871",
+        "id": 5383431
+    },
+    "Pittsburg": {
+        "county": "Contra Costa",
+        "lat": " 37.41923",
+        "lon": " -94.71301",
+        "id": 5383465
+    },
+    "Placentia": {
+        "county": "Orange",
+        "lat": " 33.88230",
+        "lon": " -117.85785",
+        "id": 5383527
+    },
+    "Placerville": {
+        "county": "El Dorado",
+        "lat": " 38.72272",
+        "lon": " -120.79700",
+        "id": 5383559
+    },
+    "Pleasant Hill": {
+        "county": "Contra Costa",
+        "lat": " 37.95305",
+        "lon": " -122.07534",
+        "id": 5383720
+    },
+    "Pleasanton": {
+        "county": "Alameda",
+        "lat": " 37.71548",
+        "lon": " -121.90562",
+        "id": 5383777
+    },
+    "Plymouth": {
+        "county": "Amador",
+        "lat": " 41.89531",
+        "lon": " -70.62097",
+        "id": 5383872
+    },
+    "Point Arena": {
+        "county": "Mendocino",
+        "lat": " 38.90232",
+        "lon": " -123.65672"
+    },
+    "Pomona": {
+        "county": "Los Angeles",
+        "lat": " 34.05972",
+        "lon": " -117.75647",
+        "id": 5384170
+    },
+    "Port Hueneme": {
+        "county": "Ventura",
+        "lat": " 34.16432",
+        "lon": " -119.19760",
+        "id": 5384339
+    },
+    "Porterville": {
+        "county": "Tulare",
+        "lat": " 40.90678",
+        "lon": " -83.01866",
+        "id": 5384471
+    },
+    "Portola": {
+        "county": "Plumas",
+        "lat": " 39.81922",
+        "lon": " -120.46873",
+        "id": 5384438
+    },
+    "Poway": {
+        "county": "San Diego",
+        "lat": " 32.97728",
+        "lon": " -117.03981",
+        "id": 5384690
+    },
+    "Rancho Cordova": {
+        "county": "Sacramento",
+        "lat": " 38.59879",
+        "lon": " -121.27129",
+        "id": 5385941
+    },
+    "Rancho Cucamonga": {
+        "county": "San Bernardino",
+        "lat": " 34.10861",
+        "lon": " -117.59959",
+        "id": 5385955
+    },
+    "Rancho Mirage": {
+        "county": "Riverside",
+        "lat": " 33.77329",
+        "lon": " -116.42053",
+        "id": 5386015
+    },
+    "Rancho Palos Verdes": {
+        "county": "Los Angeles",
+        "lat": " 33.76171",
+        "lon": " -118.36248",
+        "id": 5386035
+    },
+    "Rancho Santa Margarita": {
+        "county": "Orange",
+        "lat": " 33.63430",
+        "lon": " -117.59668",
+        "id": 5386082
+    },
+    "Red Bluff": {
+        "county": "Tehama",
+        "lat": " 40.17744",
+        "lon": " -122.25479",
+        "id": 5570065
+    },
+    "Redding": {
+        "county": "Shasta",
+        "lat": " 40.57909",
+        "lon": " -122.36506",
+        "id": 5570160
+    },
+    "Redlands": {
+        "county": "San Bernardino",
+        "lat": " 34.05259",
+        "lon": " -117.17338",
+        "id": 5386754
+    },
+    "Redondo Beach": {
+        "county": "Los Angeles",
+        "lat": " 47.34757",
+        "lon": " -122.31642",
+        "id": 5386785
+    },
+    "Redwood City": {
+        "county": "San Mateo",
+        "lat": " 37.46891",
+        "lon": " -122.24384",
+        "id": 5386834
+    },
+    "Reedley": {
+        "county": "Fresno",
+        "lat": " 36.60118",
+        "lon": " -119.44091",
+        "id": 5386984
+    },
+    "Rialto": {
+        "county": "San Bernardino",
+        "lat": " 34.11866",
+        "lon": " -117.38337",
+        "id": 5387288
+    },
+    "Richmond": {
+        "county": "Contra Costa",
+        "lat": " 37.52162",
+        "lon": " -77.48087",
+        "id": 5387428
+    },
+    "Ridgecrest": {
+        "county": "Kern",
+        "lat": " 35.62212",
+        "lon": " -117.68129",
+        "id": 5387494
+    },
+    "Rio Dell": {
+        "county": "Humboldt",
+        "lat": " 40.49950",
+        "lon": " -124.10755",
+        "id": 5570299
+    },
+    "Rio Vista": {
+        "county": "Solano",
+        "lat": " 38.17375",
+        "lon": " -121.70068"
+    },
+    "Ripon": {
+        "county": "San Joaquin",
+        "lat": " 54.13746",
+        "lon": " -1.53613",
+        "id": 5387749
+    },
+    "Riverbank": {
+        "county": "Stanislaus",
+        "lat": " 37.72897",
+        "lon": " -120.94241",
+        "id": 5387844
+    },
+    "Riverside": {
+        "county": "Riverside",
+        "lat": " 33.93427",
+        "lon": " -117.40288",
+        "id": 5387877
+    },
+    "Rocklin": {
+        "county": "Placer",
+        "lat": " 38.80095",
+        "lon": " -121.25032",
+        "id": 5388319
+    },
+    "Rohnert Park": {
+        "county": "Sonoma",
+        "lat": " 38.34721",
+        "lon": " -122.69565",
+        "id": 5388564
+    },
+    "Rolling Hills": {
+        "county": "Los Angeles",
+        "lat": " 38.28252",
+        "lon": " -85.57843",
+        "id": 5388593
+    },
+    "Rolling Hills Estates": {
+        "county": "Los Angeles",
+        "lat": " 33.77648",
+        "lon": " -118.36549",
+        "id": 5388601
+    },
+    "Rosemead": {
+        "county": "Los Angeles",
+        "lat": " 34.06594",
+        "lon": " -118.08457",
+        "id": 5388867
+    },
+    "Roseville": {
+        "county": "Placer",
+        "lat": " 38.76322",
+        "lon": " -121.30716",
+        "id": 5388881
+    },
+    "Sacramento": {
+        "county": "Sacramento",
+        "lat": " -19.88038",
+        "lon": " -47.42421",
+        "id": 5389489
+    },
+    "St. Helena": {
+        "county": "Napa",
+        "lat": " 38.52222",
+        "lon": " -122.45969"
+    },
+    "Salinas": {
+        "county": "Monterey",
+        "lat": " 22.62751",
+        "lon": " -101.71430",
+        "id": 5391295
+    },
+    "San Bernardino": {
+        "county": "San Bernardino",
+        "lat": " 34.14024",
+        "lon": " -117.29922",
+        "id": 5391710
+    },
+    "San Bruno": {
+        "county": "San Mateo",
+        "lat": " 37.62522",
+        "lon": " -122.42805",
+        "id": 5391749
+    },
+    "San Carlos": {
+        "county": "San Mateo",
+        "lat": " 24.58317",
+        "lon": " -98.94335",
+        "id": 5391760
+    },
+    "San Clemente": {
+        "county": "Orange",
+        "lat": " 33.45382",
+        "lon": " -117.62296",
+        "id": 5391791
+    },
+    "San Diego": {
+        "county": "San Diego",
+        "lat": " 32.80823",
+        "lon": " -117.12899",
+        "id": 5391811
+    },
+    "San Dimas": {
+        "county": "Los Angeles",
+        "lat": " 34.10152",
+        "lon": " -117.81713",
+        "id": 5391891
+    },
+    "San Fernando": {
+        "county": "Los Angeles",
+        "lat": " 34.27871",
+        "lon": " -118.44398",
+        "id": 5391945
+    },
+    "San Gabriel": {
+        "county": "Los Angeles",
+        "lat": " 0.60322",
+        "lon": " -77.83959",
+        "id": 5392034
+    },
+    "San Jacinto": {
+        "county": "Riverside",
+        "lat": " 33.77149",
+        "lon": " -116.95468",
+        "id": 5392090
+    },
+    "San Joaquin": {
+        "county": "Fresno",
+        "lat": " -33.49751",
+        "lon": " -70.62866",
+        "id": 5392114
+    },
+    "San Jose": {
+        "county": "Santa Clara",
+        "lat": " 37.30539",
+        "lon": " -121.86779",
+        "id": 5392171
+    },
+    "San Juan Bautista": {
+        "county": "San Benito",
+        "lat": " 7.78921",
+        "lon": " -72.21990",
+        "id": 5392215
+    },
+    "San Juan Capistrano": {
+        "county": "Orange",
+        "lat": " 33.50783",
+        "lon": " -117.66137",
+        "id": 5392229
+    },
+    "San Leandro": {
+        "county": "Alameda",
+        "lat": " 37.70917",
+        "lon": " -122.14952",
+        "id": 5392263
+    },
+    "San Luis Obispo": {
+        "county": "San Luis Obispo",
+        "lat": " 35.26523",
+        "lon": " -120.66567",
+        "id": 5392323
+    },
+    "San Marcos": {
+        "county": "San Diego",
+        "lat": " 20.02687",
+        "lon": " -99.34066",
+        "id": 5392368
+    },
+    "San Marino": {
+        "county": "Los Angeles",
+        "lat": " 34.1214",
+        "lon": " 118.1065",
+        "id": 5392400
+    },
+    "San Mateo": {
+        "county": "San Mateo",
+        "lat": " 37.5630",
+        "lon": " 122.3255",
+        "id": 5392423
+    },
+    "San Pablo": {
+        "county": "Contra Costa",
+        "lat": " 37.9621",
+        "lon": " 122.3455",
+        "id": 5392508
+    },
+    "San Rafael": {
+        "county": "Marin",
+        "lat": " 9.94650",
+        "lon": " -83.99340",
+        "id": 5392567
+    },
+    "San Ramon": {
+        "county": "Contra Costa",
+        "lat": " 37.76022",
+        "lon": " -121.93965",
+        "id": 5392593
+    },
+    "Sand City": {
+        "county": "Monterey",
+        "lat": " 36.61694",
+        "lon": " -121.84712"
+    },
+    "Sanger": {
+        "county": "Fresno",
+        "lat": " 36.71917",
+        "lon": " -119.54184",
+        "id": 5392868
+    },
+    "Santa Ana": {
+        "county": "Orange",
+        "lat": " 14.57060",
+        "lon": " 121.10372",
+        "id": 5392900
+    },
+    "Santa Barbara": {
+        "county": "Santa Barbara",
+        "lat": " 40.71777",
+        "lon": " 0.48104",
+        "id": 5392952
+    },
+    "Santa Clara": {
+        "county": "Santa Clara",
+        "lat": " 24.47562",
+        "lon": " -103.35686",
+        "id": 5393015
+    },
+    "Santa Clarita": {
+        "county": "Los Angeles",
+        "lat": " 34.44426",
+        "lon": " -118.48767",
+        "id": 5393049
+    },
+    "Santa Cruz": {
+        "county": "Santa Cruz",
+        "lat": " -17.72945",
+        "lon": " -63.13419",
+        "id": 5393052
+    },
+    "Santa Fe Springs": {
+        "county": "Los Angeles",
+        "lat": " 33.94067",
+        "lon": " -118.07405",
+        "id": 5393128
+    },
+    "Santa Maria": {
+        "county": "Santa Barbara",
+        "lat": " 37.67446",
+        "lon": " -3.52597",
+        "id": 5393180
+    },
+    "Santa Monica": {
+        "county": "Los Angeles",
+        "lat": " 14.71294",
+        "lon": " 121.05146",
+        "id": 5393212
+    },
+    "Santa Paula": {
+        "county": "Ventura",
+        "lat": " 34.35557",
+        "lon": " -119.07285",
+        "id": 5393245
+    },
+    "Santa Rosa": {
+        "county": "Sonoma",
+        "lat": " -31.41748",
+        "lon": " -60.34566",
+        "id": 5393287
+    },
+    "Santee": {
+        "county": "San Diego",
+        "lat": " 32.84921",
+        "lon": " -116.98731",
+        "id": 5393429
+    },
+    "Saratoga": {
+        "county": "Santa Clara",
+        "lat": " 37.2638",
+        "lon": " 122.0230",
+        "id": 5393485
+    },
+    "Sausalito": {
+        "county": "Marin",
+        "lat": " 37.86066",
+        "lon": " -122.49815",
+        "id": 5393611
+    },
+    "Scotts Valley": {
+        "county": "Santa Cruz",
+        "lat": " 37.05800",
+        "lon": " -122.01618",
+        "id": 5393971
+    },
+    "Seal Beach": {
+        "county": "Orange",
+        "lat": " 33.75898",
+        "lon": " -118.08346",
+        "id": 5394086
+    },
+    "Seaside": {
+        "county": "Monterey",
+        "lat": " 36.61604",
+        "lon": " -121.83188",
+        "id": 5394136
+    },
+    "Sebastopol": {
+        "county": "Sonoma",
+        "lat": " -37.59610",
+        "lon": " 143.83629",
+        "id": 5394165
+    },
+    "Selma": {
+        "county": "Fresno",
+        "lat": " 32.42564",
+        "lon": " -87.00996",
+        "id": 5394329
+    },
+    "Shafter": {
+        "county": "Kern",
+        "lat": " 35.49262",
+        "lon": " -119.28061",
+        "id": 5394842
+    },
+    "Shasta Lake": {
+        "county": "Shasta",
+        "lat": " 40.67622",
+        "lon": " -122.37064",
+        "id": 5571109
+    },
+    "Sierra Madre": {
+        "county": "Los Angeles",
+        "lat": " 34.16559",
+        "lon": " -118.05196",
+        "id": 5395622
+    },
+    "Signal Hill": {
+        "county": "Los Angeles",
+        "lat": " 33.80052",
+        "lon": " -118.16750",
+        "id": 5395754
+    },
+    "Simi Valley": {
+        "county": "Ventura",
+        "lat": " 34.27099",
+        "lon": " -118.73855",
+        "id": 5396003
+    },
+    "Solana Beach": {
+        "county": "San Diego",
+        "lat": " 32.99427",
+        "lon": " -117.26093",
+        "id": 5396974
+    },
+    "Soledad": {
+        "county": "Monterey",
+        "lat": " 36.42828",
+        "lon": " -121.32655",
+        "id": 5397018
+    },
+    "Solvang": {
+        "county": "Santa Barbara",
+        "lat": " 34.60414",
+        "lon": " -120.13315",
+        "id": 5397059
+    },
+    "Sonoma": {
+        "county": "Sonoma",
+        "lat": " 32.33437",
+        "lon": " -96.61532",
+        "id": 5397095
+    },
+    "Sonora": {
+        "county": "Tuolumne",
+        "lat": " 37.98354",
+        "lon": " -120.37323",
+        "id": 5397165
+    },
+    "South El Monte": {
+        "county": "Los Angeles",
+        "lat": " 34.05317",
+        "lon": " -118.04608",
+        "id": 5397376
+    },
+    "South Gate": {
+        "county": "Los Angeles",
+        "lat": " 33.94442",
+        "lon": " -118.19786",
+        "id": 5397603
+    },
+    "South Lake Tahoe": {
+        "county": "El Dorado",
+        "lat": " 38.91242",
+        "lon": " -119.99121",
+        "id": 5397664
+    },
+    "South Pasadena": {
+        "county": "Los Angeles",
+        "lat": " 34.11006",
+        "lon": " -118.15624",
+        "id": 5397717
+    },
+    "South San Francisco": {
+        "county": "San Mateo",
+        "lat": " 37.65415",
+        "lon": " -122.42924",
+        "id": 5397765
+    },
+    "Stanton": {
+        "county": "Orange",
+        "lat": " 33.80156",
+        "lon": " -117.99617",
+        "id": 5398630
+    },
+    "Stockton": {
+        "county": "San Joaquin",
+        "lat": " 38.15425",
+        "lon": " -81.21447",
+        "id": 5399020
+    },
+    "Suisun City": {
+        "county": "Solano",
+        "lat": " 38.24160",
+        "lon": " -122.00749"
+    },
+    "Sunnyvale": {
+        "county": "Santa Clara",
+        "lat": " 37.36903",
+        "lon": " -122.02538",
+        "id": 5400075
+    },
+    "Susanville": {
+        "county": "Lassen",
+        "lat": " 40.42854",
+        "lon": " -120.65494",
+        "id": 5572400
+    },
+    "Sutter Creek": {
+        "county": "Amador",
+        "lat": " 38.40538",
+        "lon": " -120.77184",
+        "id": 5400400
+    },
+    "Taft": {
+        "county": "Kern",
+        "lat": " 35.14756",
+        "lon": " -119.44935",
+        "id": 5400877
+    },
+    "Tehachapi": {
+        "county": "Kern",
+        "lat": " 35.1322",
+        "lon": " 118.4490",
+        "id": 5401297
+    },
+    "Tehama": {
+        "county": "Tehama",
+        "lat": " 40.02354",
+        "lon": " -122.12564"
+    },
+    "Temecula": {
+        "county": "Riverside",
+        "lat": " 33.50114",
+        "lon": " -117.10901",
+        "id": 5401395
+    },
+    "Temple City": {
+        "county": "Los Angeles",
+        "lat": " 34.10145",
+        "lon": " -118.05570",
+        "id": 5401469
+    },
+    "Thousand Oaks": {
+        "county": "Ventura",
+        "lat": " 34.18972",
+        "lon": " -118.87965",
+        "id": 5402405
+    },
+    "Torrance": {
+        "county": "Los Angeles",
+        "lat": " 33.83526",
+        "lon": " -118.33389",
+        "id": 5403022
+    },
+    "Tracy": {
+        "county": "San Joaquin",
+        "lat": " 37.73639",
+        "lon": " -121.45251",
+        "id": 5403191
+    },
+    "Trinidad": {
+        "county": "Humboldt",
+        "lat": " 12.07425",
+        "lon": " 124.54653"
+    },
+    "Tulare": {
+        "county": "Tulare",
+        "lat": " 36.20559",
+        "lon": " -119.34040",
+        "id": 5403783
+    },
+    "Tulelake": {
+        "county": "Siskiyou",
+        "lat": " 41.93475",
+        "lon": " -121.44529",
+        "id": 5572979
+    },
+    "Turlock": {
+        "county": "Stanislaus",
+        "lat": " 37.48814",
+        "lon": " -120.83771",
+        "id": 5404024
+    },
+    "Tustin": {
+        "county": "Orange",
+        "lat": " 33.73896",
+        "lon": " -117.80885",
+        "id": 5404119
+    },
+    "Twentynine Palms": {
+        "county": "San Bernardino",
+        "lat": " 34.16040",
+        "lon": " -116.05009",
+        "id": 5404198
+    },
+    "Ukiah": {
+        "county": "Mendocino",
+        "lat": " 39.14985",
+        "lon": " -123.20365",
+        "id": 5404476
+    },
+    "Union City": {
+        "county": "Alameda",
+        "lat": " 37.59076",
+        "lon": " -122.03973",
+        "id": 5404555
+    },
+    "Upland": {
+        "county": "San Bernardino",
+        "lat": " 34.11811",
+        "lon": " -117.65796",
+        "id": 5404915
+    },
+    "Vacaville": {
+        "county": "Solano",
+        "lat": " 38.35998",
+        "lon": " -121.96930",
+        "id": 5405228
+    },
+    "Vallejo": {
+        "county": "Solano",
+        "lat": " 38.11762",
+        "lon": " -122.23279",
+        "id": 5405380
+    },
+    "Ventura": {
+        "county": "Ventura",
+        "lat": " 34.27862",
+        "lon": " -119.23239",
+        "id": 5405878
+    },
+    "Vernon": {
+        "county": "Los Angeles",
+        "lat": " 41.19883",
+        "lon": " -74.50205"
+    },
+    "Victorville": {
+        "county": "San Bernardino",
+        "lat": " 34.50145",
+        "lon": " -117.34229",
+        "id": 5406222
+    },
+    "Villa Park": {
+        "county": "Orange",
+        "lat": " 41.88346",
+        "lon": " -87.97933",
+        "id": 5406337
+    },
+    "Visalia": {
+        "county": "Tulare",
+        "lat": " 36.32900",
+        "lon": " -119.30797",
+        "id": 5406567
+    },
+    "Vista": {
+        "county": "San Diego",
+        "lat": " 37.82899",
+        "lon": " -81.42981",
+        "id": 5406602
+    },
+    "Walnut": {
+        "county": "Los Angeles",
+        "lat": " 34.01747",
+        "lon": " -117.85962",
+        "id": 5406976
+    },
+    "Walnut Creek": {
+        "county": "Contra Costa",
+        "lat": " 37.90456",
+        "lon": " -122.04944",
+        "id": 5406990
+    },
+    "Wasco": {
+        "county": "Kern",
+        "lat": " 35.59551",
+        "lon": " -119.35427",
+        "id": 5550368
+    },
+    "Waterford": {
+        "county": "Stanislaus",
+        "lat": " 42.66078",
+        "lon": " -83.38322",
+        "id": 5407463
+    },
+    "Watsonville": {
+        "county": "Santa Cruz",
+        "lat": " 36.9102",
+        "lon": " 121.7569",
+        "id": 5407529
+    },
+    "Weed": {
+        "county": "Siskiyou",
+        "lat": " 41.46103",
+        "lon": " -122.38278",
+        "id": 5573449
+    },
+    "West Covina": {
+        "county": "Los Angeles",
+        "lat": " 34.04939",
+        "lon": " -117.91333",
+        "id": 5407933
+    },
+    "West Hollywood": {
+        "county": "Los Angeles",
+        "lat": " 34.09205",
+        "lon": " -118.37852",
+        "id": 5408076
+    },
+    "West Sacramento": {
+        "county": "Yolo",
+        "lat": " 38.56613",
+        "lon": " -121.54127",
+        "id": 5408211
+    },
+    "Westlake Village": {
+        "county": "Los Angeles",
+        "lat": " 34.14647",
+        "lon": " -118.82344",
+        "id": 5408395
+    },
+    "Westminster": {
+        "county": "Orange",
+        "lat": " 39.57409",
+        "lon": " -77.00361",
+        "id": 5408406
+    },
+    "Westmorland": {
+        "county": "Imperial",
+        "lat": " -43.58121",
+        "lon": " 172.60302",
+        "id": 5408445
+    },
+    "Wheatland": {
+        "county": "Yuba",
+        "lat": " 42.03961",
+        "lon": " -104.99905",
+        "id": 5408617
+    },
+    "Whittier": {
+        "county": "Los Angeles",
+        "lat": " 33.9792",
+        "lon": " 118.0328",
+        "id": 5409059
+    },
+    "Wildomar": {
+        "county": "Riverside",
+        "lat": " 33.61495",
+        "lon": " -117.26163",
+        "id": 5409260
+    },
+    "Williams": {
+        "county": "Colusa",
+        "lat": " 32.10326",
+        "lon": " -81.25021",
+        "id": 5409417
+    },
+    "Willits": {
+        "county": "Mendocino",
+        "lat": " 39.43042",
+        "lon": " -123.36551",
+        "id": 5409500
+    },
+    "Willows": {
+        "county": "Glenn",
+        "lat": " -29.24237",
+        "lon": " 26.05660",
+        "id": 5409777
+    },
+    "Winters": {
+        "county": "Yolo",
+        "lat": " 38.52571",
+        "lon": " -121.97365",
+        "id": 5410125
+    },
+    "Woodlake": {
+        "county": "Tulare",
+        "lat": " 36.41877",
+        "lon": " -119.09840",
+        "id": 5410416
+    },
+    "Woodland": {
+        "county": "Yolo",
+        "lat": " 38.67189",
+        "lon": " -121.77324",
+        "id": 5410430
+    },
+    "Yorba Linda": {
+        "county": "Orange",
+        "lat": " 33.88791",
+        "lon": " -117.78649",
+        "id": 5410902
+    },
+    "Yreka": {
+        "county": "Siskiyou",
+        "lat": " 41.72123",
+        "lon": " -122.63664",
+        "id": 5574093
+    },
+    "Yuba City": {
+        "county": "Sutter",
+        "lat": " 39.1404",
+        "lon": " 121.6169",
+        "id": 5411015
+    },
+    "Yucaipa": {
+        "county": "San Bernardino",
+        "lat": " 34.03007",
+        "lon": " -117.04713",
+        "id": 5411046
+    },
+    "Danville": {
+        "county": "Contra Costa",
+        "lat": 40.125222,
+        "lon": -87.6304614
+    },
+    "Los Gatos": {
+        "county": "Santa Clara",
+        "lat": 37.226611,
+        "lon": -121.9746797
+    },
+    "Atherton": {
+        "county": "San Mateo",
+        "lat": 37.4613272,
+        "lon": -122.197743
+    },
+    "San Anselmo": {
+        "county": "Marin",
+        "lat": 37.9744323,
+        "lon": -122.5615032
+    },
+    "Paradise": {
+        "county": "Butte",
+        "lat": 36.1150858,
+        "lon": -115.1734142
+    },
+    "Hillsborough": {
+        "county": "San Mateo",
+        "lat": 37.5741,
+        "lon": -122.3794
+    },
+    "Mammoth Lakes": {
+        "county": "Mono",
+        "lat": 37.6432525,
+        "lon": -118.9668509
+    },
+    "Loomis": {
+        "county": "Placer",
+        "lat": 38.8212889,
+        "lon": -121.1930041
+    },
+    "Corte Madera": {
+        "county": "Marin",
+        "lat": 37.9254806,
+        "lon": -122.5274755
+    },
+    "Windsor": {
+        "county": "Sonoma",
+        "lat": 38.5471327,
+        "lon": -122.8163802
+    },
+    "Tiburon": {
+        "county": "Marin",
+        "lat": 18.3267304,
+        "lon": -74.3959216
+    },
+    "Portola Valley": {
+        "county": "San Mateo",
+        "lat": 37.3736298,
+        "lon": -122.219047
+    },
+    "Los Altos Hills": {
+        "county": "Santa Clara",
+        "lat": 37.3796627,
+        "lon": -122.1374637
+    },
+    "Colma": {
+        "county": "San Mateo",
+        "lat": 37.6768779,
+        "lon": -122.459695
+    },
+    "Moraga": {
+        "county": "Contra Costa",
+        "lat": 37.834897,
+        "lon": -122.12883
+    },
+    "Fairfax": {
+        "county": "Marin",
+        "lat": 37.9871455,
+        "lon": -122.5888686
+    },
+    "Ross": {
+        "county": "Marin",
+        "lat": 37.9624239,
+        "lon": -122.5549775
+    },
+    "Yucca Valley": {
+        "county": "San Bernardino",
+        "lat": 34.1234629,
+        "lon": -116.4140676
+    },
+    "Truckee": {
+        "county": "Nevada",
+        "lat": 39.327962,
+        "lon": -120.1832533
+    },
+    "San Francisco": {
+        "county": "San Francisco",
+        "lat": 37.7790262,
+        "lon": -122.4199061
+    },
+    "Apple Valley": {
+        "county": "San Bernardino",
+        "lat": 44.7319094,
+        "lon": -93.21772
+    },
+    "Yountville": {
+        "county": "Napa",
+        "lat": 38.4022008,
+        "lon": -122.3595063
+    },
+    "Woodside": {
+        "county": "San Mateo",
+        "lat": 37.4299388,
+        "lon": -122.2538557
+    }
+}

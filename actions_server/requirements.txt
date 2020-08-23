@@ -1,0 +1,5 @@
+fuzzywuzzy==0.18.0
+boto3==1.12.29
+requests==2.23.0
+pytz==2019.3
+pytzdata==2019.3
