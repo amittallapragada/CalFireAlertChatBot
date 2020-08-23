@@ -1,0 +1,62 @@
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - fire_update
+  - help
+  - reset 
+
+entities:
+  - city
+
+slots:
+  city:
+    type: unfeaturized
+
+
+responses:
+  utter_greet:
+  - text: "Hey! I can get you real-time updates on the California forest fires. Type 'update city_name' to get city level info. (Example: update San Jose)"
+
+
+  utter_fire_update:
+  - text: " - Current Fire: {fire_name}\n 
+            - Percent Contained: {percent_contained}\n 
+            - Evacuation Map Info: {evac_url}\n 
+          "
+  utter_weather_update:
+  - text: " - Temperature: {temp}\n
+            - Air Quality: {aqi}\n
+            - Humidity: {hum}\n
+            To view another city's update or the same one, type 'update city_name'.
+          "
+
+  utter_help:
+  - text: "Type 'update 'city_name' ' to get forest fire and weather information about your city. (example: update san jose)"
+
+  utter_reset:
+  - text: "Let's start over. Type 'update 'city_name' to get forest fire and weather information about your city. (example: update san jose)"
+
+
+  utter_default:
+  - text: "Hey! I can get you real-time updates on the California forest fires for your city. Type 'update city_name' to start. (Example: update San Jose)"
+
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+
+
+forms:
+  - action_fire_update
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

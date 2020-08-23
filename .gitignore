@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc 
+chatbot/source/credentials.yml
+docker-compose.yml
+.DS_Store
