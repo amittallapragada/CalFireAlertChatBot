@@ -66,12 +66,12 @@ class ActionFireUpdate(FormAction):
 
     def fire_response_handler(self, fire_data, dispatcher):
         if len(fire_data) == 0:
-            response_text = "Your county has no forest fire warnings currently. Please stay alert and try us again as news develops."
+            response_text = "Your city has no forest fire warnings currently. Please stay alert and try us again as more news develops."
             
         elif len(fire_data) == 1:
             response_text = f"There is 1 fire that {fire_data[0]['county']} could be impacted by."
         else:
-            response_text = f"There is {len(fire_data)} fire that {fire_data[0]['county']} could be impacted by."
+            response_text = f"There are {len(fire_data)} fires that {fire_data[0]['county']} could be impacted by."
         #utter header 
         dispatcher.utter_message(response_text)
 
@@ -97,13 +97,7 @@ class ActionFireUpdate(FormAction):
                     message += f"-Last Updated: {pst_str}"
 
                 dispatcher.utter_message(message)
-    {
-  "city": "Blythe",
-  "humidity": "28",
-  "temp": "102.18200000000002",
-  "time": "08/23/2020T10:53Z",
-  "weather": "Clear"
-}
+
     def weather_response_handler(self, city, weather_data, dispatcher):
         if len(weather_data) != 0:
             weather_data = weather_data[0]
