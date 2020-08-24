@@ -59,9 +59,9 @@ class ActionFireUpdate(Action):
             response_text = "Your city has no forest fire warnings currently. Please stay alert and try us again as more news develops."
             
         elif len(fire_data) == 1:
-            response_text = f"There is 1 fire that {fire_data[0]['county']} could be impacted by."
+            response_text = f"There is 1 fire that {fire_data[0]['county']} County could be impacted by."
         else:
-            response_text = f"There are {len(fire_data)} fires that {fire_data[0]['county']} could be impacted by."
+            response_text = f"There are {len(fire_data)} fires that {fire_data[0]['county']} County could be impacted by."
         #utter header 
         dispatcher.utter_message(response_text)
 
