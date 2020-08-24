@@ -80,7 +80,7 @@ class ActionFireUpdate(Action):
                 if evac_url:
                     message += f"-More Info: {evac_url}\n"
                 if fire_name and fire_name == "SCU Lightning Complex":
-                    message += f"-Evac Map: {https://rb.gy/qikzoa}\n"
+                    message += f"-Evac Map: https://rb.gy/qikzoa \n"
                 if timestamp:
                     date_format='%m/%d/%Y %I:%M %p'
                     timestamp = datetime.fromtimestamp(int(timestamp))
