@@ -54,7 +54,7 @@ responses:
 
 
 
-forms:
+actions:
   - action_fire_update
 
 session_config:
