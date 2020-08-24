@@ -12,17 +12,14 @@
 
 ## fire update
 * fire_update
-    - action_fire_update
-    - form{"name": "action_fire_update"}
-    - form{"name": null}
-  
+  - action_fire_update
+
 ## fire update
 * greet
   - utter_greet
 * fire_update
-    - action_fire_update
-    - form{"name": "action_fire_update"}
-    - form{"name": null}
+  - action_fire_update
+
 
 
 ## help
