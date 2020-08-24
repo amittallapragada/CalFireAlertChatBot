@@ -78,7 +78,9 @@ class ActionFireUpdate(Action):
                 if percent_contained:
                     message += f"-Percent Contained: {int(percent_contained)}%\n"
                 if evac_url:
-                    message += f"-Fire Map: {evac_url}\n"
+                    message += f"-More Info: {evac_url}\n"
+                if fire_name and fire_name == "SCU Lightning Complex":
+                    message += f"-Evac Map: {https://rb.gy/qikzoa}\n"
                 if timestamp:
                     date_format='%m/%d/%Y %I:%M %p'
                     timestamp = datetime.fromtimestamp(int(timestamp))
