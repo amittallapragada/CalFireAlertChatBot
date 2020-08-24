@@ -15,7 +15,7 @@ from rasa_sdk.events import SlotSet
 from rasa_sdk.executor import CollectingDispatcher
 from actions.fire_api.static.cities_list import cities 
 from actions.fire_api.api import Client
-# from fire_api.static.cities_list import cities 
+# from fire_api.static.constant import geo_dict 
 # from fire_api.api import Client 
 from fuzzywuzzy import fuzz
 from datetime import timedelta, datetime 
@@ -32,9 +32,12 @@ class ActionFireUpdate(FormAction):
     def required_slots(tracker):
         """A list of required slots that the form has to fill"""
         return ["city"]
+    
+
+
 
     def slot_mappings(self):
-        return {"city": self.from_text(intent='fire_update')}
+        return {"city": self.from_entity(entity="city")}
     
 
     def get_last_user_utterance(self, tracker:Tracker):
@@ -45,11 +48,19 @@ class ActionFireUpdate(FormAction):
                 return events[i]['text']
 
     def validate_city(self, value: Text, dispatcher: CollectingDispatcher, tracker: Tracker, domain: Dict[Text, Any]):
-        user_utterance = self.get_last_user_utterance(tracker)
+        user_utterance = tracker.latest_message['text']
+
+        # if "update" not in user_utterance.lower():
+        #     potential_city = tracker.get_slot("city")
+        # else:
         potential_city = user_utterance.split(" ")[1:]
         potential_city = " ".join(potential_city)
+        print(f"raw input: {user_utterance}")
+        print(f"potential input: {potential_city}")
+
         best_guess = None 
         max_sim = -10000    
+        cities = list(geo_dict.keys())
         for city in cities:
             sim = fuzz.ratio(potential_city.lower().strip(), city.lower())
             if sim > max_sim:
@@ -59,6 +70,8 @@ class ActionFireUpdate(FormAction):
         if max_sim > 70:
             return {'city':best_guess}
         else:
+            print(f"potential city: {user_utterance}")
+            print(f"slot: {tracker.get_slot('city')}")
             dispatcher.utter_message(f"We could not find {potential_city}. please try again. Note: this is only for California.")
             return {"city":None}
          
@@ -92,8 +105,8 @@ class ActionFireUpdate(FormAction):
                 if timestamp:
                     date_format='%m/%d/%Y %I:%M %p'
                     timestamp = datetime.fromtimestamp(int(timestamp))
-                    pst = timestamp + timedelta(hours=7)
-                    pst_str = pst.strftime(date_format)
+                    # pst = timestamp + timedelta(hours=7)
+                    pst_str = timestamp.strftime(date_format)
                     message += f"-Last Updated: {pst_str}"
 
                 dispatcher.utter_message(message)
