@@ -13,7 +13,7 @@ from rasa_sdk import Tracker
 from rasa_sdk.forms import FormAction
 from rasa_sdk.events import SlotSet
 from rasa_sdk.executor import CollectingDispatcher
-from actions.fire_api.static.cities_list import cities 
+from actions.fire_api.static.constant import geo_dict 
 from actions.fire_api.api import Client
 # from fire_api.static.constant import geo_dict 
 # from fire_api.api import Client 
