@@ -12,7 +12,7 @@
 - restart flow
 - reset flow
 - please start again
-- start again 
+- start again
 
 ## intent:help
 - help
@@ -22,7 +22,6 @@
 - help please
 - please help
 - halp
-
 
 ## intent:goodbye
 - bye
@@ -55,15 +54,17 @@
 - I am great
 - I'm good
 
-## lookup:city
-data/lookup_tables/california_cities.txt
-
 ## intent:fire_update
-- update [Adelanto](city)
-- update [Agoura Hills](city)
+- update [Adelanto](city:Adelanto)
+- update [Agoura Hills](city:Agoura Hills)
 - update [san jose](city)
 - update [San Jose](city)
 - update san jose
-- update san jose
 - update santa clara
+- update [san jose](city:san jose)
+- update [san francisco](city:san francisco)
+- update [Fresno](city:Fresno)
+- update [cupertino](city:cupertino)
 
+## lookup:city
+  data/lookup_tables/california_cities.txt
