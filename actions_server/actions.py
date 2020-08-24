@@ -10,7 +10,8 @@
 from typing import Any, Text, Dict, List
 
 from rasa_sdk import Tracker
-from rasa_sdk.forms import FormAction
+# from rasa_sdk.forms import FormAction
+from rasa_sdk.interfaces import Action
 from rasa_sdk.events import SlotSet
 from rasa_sdk.executor import CollectingDispatcher
 from actions.fire_api.static.constant import geo_dict 
@@ -23,41 +24,20 @@ from pytz import timezone
 
 #
 #
-class ActionFireUpdate(FormAction):
+class ActionFireUpdate(Action):
 
     def name(self):
         return "action_fire_update"
 
-    @staticmethod
-    def required_slots(tracker):
-        """A list of required slots that the form has to fill"""
-        return ["city"]
-    
 
-
-
-    def slot_mappings(self):
-        return {"city": self.from_entity(entity="city")}
-    
-
-    def get_last_user_utterance(self, tracker:Tracker):
-        events = tracker.events 
-        events.reverse()
-        for i in range(len(events)):
-            if events[i]['event'] == 'user':
-                return events[i]['text']
-
-    def validate_city(self, value: Text, dispatcher: CollectingDispatcher, tracker: Tracker, domain: Dict[Text, Any]):
-        user_utterance = tracker.latest_message['text']
-
-        # if "update" not in user_utterance.lower():
-        #     potential_city = tracker.get_slot("city")
-        # else:
+    def format_user_input(self, user_utterance):
+        print(f"USER UTTERANCE: {user_utterance}")
+        if user_utterance is None or user_utterance == "":
+            return None 
         potential_city = user_utterance.split(" ")[1:]
         potential_city = " ".join(potential_city)
         print(f"raw input: {user_utterance}")
-        print(f"potential input: {potential_city}")
-
+        print(f"potential input: {potential_city}")      
         best_guess = None 
         max_sim = -10000    
         cities = list(geo_dict.keys())
@@ -68,13 +48,10 @@ class ActionFireUpdate(FormAction):
                 best_guess = city
         print(f"user input: {potential_city} and {best_guess} is our best guess: {max_sim}")
         if max_sim > 70:
-            return {'city':best_guess}
+            return best_guess
         else:
             print(f"potential city: {user_utterance}")
-            print(f"slot: {tracker.get_slot('city')}")
-            dispatcher.utter_message(f"We could not find {potential_city}. please try again. Note: this is only for California.")
-            return {"city":None}
-         
+            return None
 
 
     def fire_response_handler(self, fire_data, dispatcher):
@@ -128,6 +105,19 @@ class ActionFireUpdate(FormAction):
                 message += f"-Temp: {temp}\n"
             message += "For an update on the same or different city type 'update city_name'\n"
             dispatcher.utter_message(message)
+    
+    def run(self, dispatcher, tracker, domain):
+        user_utterance = tracker.latest_message['text']
+        city = self.format_user_input(user_utterance)
+        if city is None:
+            dispatcher.utter_message(f"We could not find this location. Please try again. Note, this service is only for California.")
+        else:
+            fire_tracker = Client(city=city)
+            fire_data = fire_tracker.get_fires()
+            weather_data = fire_tracker.get_weather()
+            self.fire_response_handler(fire_data, dispatcher)
+            self.weather_response_handler(city, weather_data, dispatcher)
+        return []
 
 
                 
@@ -136,19 +126,5 @@ class ActionFireUpdate(FormAction):
         
 
 
-
-
-
-    def submit(self, dispatcher, tracker, domain):
-        # type: (CollectingDispatcher, Tracker, Dict[Text, Any]) -> List[Dict]
-        """Define what the form has to do
-            after all required slots are filled"""
-        city = tracker.get_slot("city")
-        fire_tracker = Client(city=city)
-        fire_data = fire_tracker.get_fires()
-        weather_data = fire_tracker.get_weather()
-        self.fire_response_handler(fire_data, dispatcher)
-        self.weather_response_handler(city, weather_data, dispatcher)
-        return []
 
 
