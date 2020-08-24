@@ -90,7 +90,7 @@ class ActionFireUpdate(FormAction):
                 if evac_url:
                     message += f"-Fire Map: {evac_url}\n"
                 if timestamp:
-                    date_format='%m/%d/%Y %H:%M %p'
+                    date_format='%m/%d/%Y %I:%M %p'
                     timestamp = datetime.fromtimestamp(int(timestamp))
                     pst = timestamp + timedelta(hours=7)
                     pst_str = pst.strftime(date_format)
