@@ -1,4 +1,4 @@
-# calFireAlertSystem
+# California Forest Fire Alert System
 
 - A service that texts people updates on the California Forest Fires
  
