@@ -72,6 +72,7 @@ class ActionFireUpdate(Action):
                 evac_url= fire.get("url", None)
                 timestamp = fire.get("updated", None)
                 
+                
                 message = ""
                 if fire_name:
                     message += f"-Fire Name: {fire_name}\n"
