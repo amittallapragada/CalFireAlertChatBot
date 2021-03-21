@@ -31,7 +31,7 @@ class ActionFireUpdate(Action):
 
 
     def format_user_input(self, user_utterance):
-        print(f"USER UTTERANCE: {user_utterance}")
+        print(f"user utterance: {user_utterance}")
         if user_utterance is None or user_utterance == "":
             return None 
         potential_city = user_utterance.split(" ")[1:]
@@ -55,7 +55,6 @@ class ActionFireUpdate(Action):
 
 
     def fire_response_handler(self, fire_data, dispatcher):
-        print("AAAAAH")
         if len(fire_data) == 0:
             response_text = "Your city has no forest fire warnings currently. Please stay alert and try us again as more news develops."
             
@@ -85,7 +84,7 @@ class ActionFireUpdate(Action):
                     message += f"-Evac Map: https://rb.gy/qikzoa \n"
                 if timestamp:
                     date_format='%m/%d/%Y %I:%M %p'
-                    timestamp = datetime.fromtimestamp(int(timestamp))
+                    timestamp = datetime.fromtimestamp(float(timestamp))
                     # pst = timestamp + timedelta(hours=7)
                     pst_str = timestamp.strftime(date_format)
                     message += f"-Last Updated: {pst_str}"
