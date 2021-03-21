@@ -23,11 +23,11 @@ class Client:
             
         one_day_ago = int((datetime.now() - timedelta(days=1)).timestamp())
 
-        response = fires_table.query(key="county", value=self.county_name)
-
+        response = fires_table.coll.find({"county":self.county_name}).sort('_id', -1).limit(1)
+        response = [value for value in response]
         result = []
 
-        for item in response['Items']:
+        for item in response:
             if one_day_ago < item['record-updated']:
                 new_item = {}
                 new_item['county'] = item['county']
