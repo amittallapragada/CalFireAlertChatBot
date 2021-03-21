@@ -1,12 +1,11 @@
 import os
-import boto3
 from datetime import datetime
 from datetime import timedelta
 from actions.fire_api.static.constant import geo_dict
-from actions.fire_api.connect import fires_table, weather_table
-# from fire_api.static.constant import geo_dict
-# from fire_api.connect import fires_table, weather_table
-from boto3.dynamodb.conditions import Key
+from actions.fire_api.connect import Database
+
+fires_table = Database(collection_name="fires")
+weather_table = Database(collection_name="weather")
 
 
 class Client:
@@ -24,9 +23,7 @@ class Client:
             
         one_day_ago = int((datetime.now() - timedelta(days=1)).timestamp())
 
-        response = fires_table.query(
-            KeyConditionExpression=Key('county').eq(self.county_name)
-        )
+        response = fires_table.query(key="county", value=self.county_name)
 
         result = []
 
@@ -59,13 +56,11 @@ class Client:
 
 
     def get_weather(self):
-
-        response = weather_table.query(
-            KeyConditionExpression=Key('city').eq(self.city_name),
-            ScanIndexForward=False,
-            Limit=1
-        )
-
-        result = response['Items']
+        data = weather_table.coll.find({"city":self.city_name}).sort('_id', -1).limit(1)
+        result = [value for value in data]
         return result
 
+
+# client = Client(city='Alameda')
+# data = client.get_weather()
+# print(data)

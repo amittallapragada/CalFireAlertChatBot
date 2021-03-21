@@ -55,6 +55,7 @@ class ActionFireUpdate(Action):
 
 
     def fire_response_handler(self, fire_data, dispatcher):
+        print("AAAAAH")
         if len(fire_data) == 0:
             response_text = "Your city has no forest fire warnings currently. Please stay alert and try us again as more news develops."
             
