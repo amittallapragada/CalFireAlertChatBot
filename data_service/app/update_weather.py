@@ -40,9 +40,10 @@ def updateWeather():
         lon = val["lon"]
 
         item = {}
+        item['_id']  = city
         item['city'] = city
 
-        payload = {'latitude': lat,'longitude': lon, 
+        payload = {'latitude': lat,'longitude': lon,
                 'stateCode': 'CA','maxDistance': '50'}
 
         url = "https://airnowgovapi.com/reportingarea/get"
@@ -85,7 +86,7 @@ def updateWeather():
 
                 if "main" in resp and "humidity" in resp["main"]:
                     item['humidity']  = str(resp["main"]["humidity"])
-        
+
         resp = get_weather_data(lat=lat, lon=lon)
         print(resp)
         if resp is not None:

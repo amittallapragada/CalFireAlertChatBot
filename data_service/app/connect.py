@@ -14,11 +14,11 @@ class Database:
 
     def put_item(self, Item=None):
         try:
-            self.coll.insert_one(Item)
+            self.coll.replace_one({'_id': Item['_id']}, Item, upsert=True)
         except Exception as e:
             print(e)
-            raise e 
-    
+            raise e
+
     def query(self, key=None, value=None):
         try:
             documents = self.coll.find({key:value})
