@@ -5,7 +5,7 @@
 ## Features
 - scrapes weather data from https://www.airnow.gov/
 - scrapes data about the forest fires from https://www.fire.ca.gov/incidents/
-- uses DynamoDB to cache recent weather and fire records
+- uses mongo to cache recent weather and fire records
 - a chatbot built with RASA to update users with info about their city 
 - twilio integration 
 - Dockerized with a simple nginx web server
