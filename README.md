@@ -11,7 +11,7 @@
 - Dockerized with a simple nginx web server
 
 ## Demo
-- [Live: True] text +14083409971 "hi". 
+- [Live: False] text +14083409971 "hi". 
 
 
 ## Setup Tutorial coming soon
